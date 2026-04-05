@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 🎓 Java Trainee | 💻 Aspiring Software Developer<br>🚀 Currently focusing on Java, DSA, and project development<br>🏢Student of Galgotias University<br>🛠 Working on projects in web & application development<br>🎯 Goal: Become a full-stack developer
 
 
